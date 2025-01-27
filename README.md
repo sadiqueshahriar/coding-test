@@ -18,8 +18,8 @@ Clone this repository to your local machine:
 
 
 
-git clone https://github.com/your-repo/laravel-api-project.git
-cd laravel-api-project
+git clone https://github.com/sadiqueshahriar/test.git
+cd coding-test
 Step 2: Install Dependencies
 Install Laravel dependencies using Composer:
 
